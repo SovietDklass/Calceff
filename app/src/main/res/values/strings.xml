@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Калькулятор FX</string>
+    <string name="history_title">История вычислений</string>
+    <string name="history_empty_title">Пока пусто</string>
+    <string name="history_empty_subtitle">Ваши расчёты и эффектные результаты появятся здесь</string>
+    <string name="history_clear">Очистить</string>
+    <string name="fx_panel_title">Эффекты и атмосфера</string>
+    <string name="fx_mode_label">Визуальный эффект</string>
+    <string name="fx_neon">Неон</string>
+    <string name="fx_sparks">Искры</string>
+    <string name="fx_ripple">Волна</string>
+    <string name="fx_matrix">Матрица</string>
+    <string name="fx_confetti">Конфетти</string>
+    <string name="fx_intensity_label">Интенсивность частиц</string>
+    <string name="fx_sound_label">Звук клавиш (Синтезатор)</string>
+    <string name="fx_haptic_label">Тактильная вибрация</string>
+    <string name="fx_theme_label">Тёмная тема</string>
+    <string name="scientific_toggle">Инженерный режим</string>
+    <string name="copy_result">Копировать результат</string>
+    <string name="copied_toast">Скопировано</string>
+    <string name="error_div_zero">Деление на ноль</string>
+    <string name="error_syntax">Ошибка выражения</string>
+    <string name="error_domain">Недопустимое значение</string>
+    <string name="error_overflow">Слишком большое число</string>
+    <string name="cd_history">История вычислений</string>
+    <string name="cd_sound_on">Звук включён</string>
+    <string name="cd_sound_off">Звук выключен</string>
+    <string name="cd_haptic_on">Вибрация включена</string>
+    <string name="cd_haptic_off">Вибрация выключена</string>
+    <string name="cd_fx_settings">Настройки эффектов</string>
+    <string name="cd_scientific">Инженерные функции</string>
+    <string name="cd_backspace">Удалить символ</string>
+    <string name="cd_close">Закрыть</string>
+    <string name="deg_mode">DEG</string>
+    <string name="rad_mode">RAD</string>
+</resources>

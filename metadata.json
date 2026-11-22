@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор FX",
+  "description": "Калькулятор с неоновыми, искровыми, волновыми, матричными и конфетти-эффектами, синтезированным звуком и тактильным откликом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
